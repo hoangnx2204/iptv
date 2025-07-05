@@ -10,9 +10,9 @@ https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🦐 VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/VTV5_26.11.2019.png/revision/latest/scale-to-width-down/220?cb=20240322075730&path-prefix=vi", VTV5 HD
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🦐 VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/VTV5_T%C3%A2y_Nam_B%E1%BB%99.png/revision/latest?cb=20200608143410&path-prefix=vi", VTV5 TÂY NAM BỘ HD
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🦐 VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/VTV5_26.11.2019.png/revision/latest/scale-to-width-down/220?cb=20240322075730&path-prefix=vi", VTV5 TÂY NAM BỘ HD
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🦐 VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2d/VTV5_T%C3%A2y_Nguy%C3%AAn_2022-nay.png/revision/latest?cb=20240404005950&path-prefix=vi", VTV5 TÂY NGUYÊN HD
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🦐 VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/VTV5_26.11.2019.png/revision/latest/scale-to-width-down/220?cb=20240322075730&path-prefix=vi", VTV5 TÂY NGUYÊN HD
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🦐 VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d6/VTV7_01-08.01.2020_v%C3%A0_31.10.2022-nay.png/revision/latest/scale-to-width-down/220?cb=20220602112740&path-prefix=vi", VTV7 HD
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -20,7 +20,7 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🦐 VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/VTV9_logo_%282013-nay%29.png/revision/latest?cb=20201228131939&path-prefix=vi", VTV9 HD
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🦐 VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/VTV_C%E1%BA%A7n_Th%C6%A1_logo_01.11.2022.png/revision/latest?cb=20231017095056&path-prefix=vi", VTV CẦN THƠ HD
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🦐 VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png", VTV CẦN THƠ HD
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="💕TRUNG ƯƠNG" group-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/ANTV_HD_logo_ch%C3%ADnh_12-2016.png/revision/latest/scale-to-width-down/200?cb=20220918050224&path-prefix=vi", ANTV HD
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
